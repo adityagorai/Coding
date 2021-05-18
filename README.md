@@ -1,5 +1,5 @@
 # Coding
-#write a  function to remove a given word and strip it
+#write a  python function to remove a given word and strip it
 
 
 
